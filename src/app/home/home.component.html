@@ -1,0 +1,5 @@
+<p>home works!</p>
+<div *ngFor="let product of products">
+    <p>{{product.productName}}</p>
+    <button (click)="goToProduct(product.id)">Go To Details</button>
+</div>

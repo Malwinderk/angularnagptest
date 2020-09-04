@@ -1,0 +1,34 @@
+{
+    "products":[
+        {
+            "id":1,
+            "productName":"product A",
+            "price":20,
+            "description":"afdgha",
+            "tags":"hffdsf",
+            "category":"hgsafd",
+            "quantity":20,
+            "returnable":true
+        },
+        {
+            "id":2,
+            "productName":"product B",
+            "price":20,
+            "description":"afdgha",
+            "tags":"hffdsf",
+            "category":"hgsafd",
+            "quantity":20,
+            "returnable":true
+        },
+        {
+            "id":3,
+            "productName":"product C",
+            "price":20,
+            "description":"afdgha",
+            "tags":"hffdsf",
+            "category":"hgsafd",
+            "quantity":"dshfjs",
+            "returnable":true
+        }
+    ]
+}
